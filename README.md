@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Martin 👋🏼👨🏻‍💻
+
+I'm a 17 year old software engineer from Norway. Currently im going to Hamar Cathedralschool, in Informationtechnology second year. In my spare time i am running my own company [Limeyfy](https://limeyfy.com). 
 
 <!--
 **NotLimey/NotLimey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
