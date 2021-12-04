@@ -5,7 +5,7 @@ I'm a 17 year old software engineer from Norway. Currently im going to Hamar Cat
 - 🔭 I’m currently working on: **Limeyfy Portal**
 - 🌱 I’m currently learning: **More deep understanding of Asp.Net Core API**
 - 💬 Ask me about: **C#, Html, Css / Scss, React, Javascript, Typescript, Blazor, Asp.Net Core**
-
+- ⚡ Fun fact: **I'm a programmer who has a girlfriend**
 
 <!--
 **NotLimey/NotLimey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
