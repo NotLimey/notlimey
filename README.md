@@ -2,10 +2,10 @@
 
 I'm a 17 year old software engineer from Norway. Currently im going to Hamar Cathedralschool, in Informationtechnology second year. In my spare time i am running my own company [Limeyfy](https://limeyfy.com), where i design, code and host websites for small to medium size businesses. 
 
-I'm really passionate about front-end and back-end coding. 
+I'm really passionate about coding and programming. I love working with react and typescript in front-end. And when it comes to back-end i love using .Net core.
 
 - 🔭 I’m currently working on: **Limeyfy Portal**
-- 🌱 I’m currently learning: **More deep understanding of Asp.Net Core API**
+- 🌱 I’m currently learning: **More deep understanding of Asp.Net Core API, Electron**
 - 💬 Ask me about: **C#, Html, Css / Scss, React, Javascript, Typescript, Blazor, Asp.Net Core**
 - ⚡ Fun fact: **I'm a programmer who has a girlfriend**
 
