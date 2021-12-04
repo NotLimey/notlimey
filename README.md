@@ -2,9 +2,9 @@
 
 I'm a 17 year old software engineer from Norway. Currently im going to Hamar Cathedralschool, in Informationtechnology second year. In my spare time i am running my own company [Limeyfy](https://limeyfy.com), where i design, code and host websites for small to medium size businesses.
 
-- 🔭 I’m currently working on: Limeyfy Portal
-- 🌱 I’m currently learning: More deep understanding of Asp.Net Core API
-- 💬 Ask me about: c#, Html, Css / Scss, React, Javascript, Typescript, Blazor, Asp.Net Core
+- 🔭 I’m currently working on: **Limeyfy Portal**
+- 🌱 I’m currently learning: **More deep understanding of Asp.Net Core API**
+- 💬 Ask me about: **C#, Html, Css / Scss, React, Javascript, Typescript, Blazor, Asp.Net Core**
 
 
 <!--
