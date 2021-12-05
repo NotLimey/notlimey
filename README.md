@@ -4,7 +4,7 @@ I'm a 17 year old software engineer from Norway. Currently im going to Hamar Cat
 
 I'm really passionate about coding and programming. I love working with react and typescript in front-end. And when it comes to back-end i love using .Net core.
 
-- 🔭 I’m currently working on: **[NL-Ui](https://github.com/notlimey/nl-js)**
+- 🔭 I’m currently working on: **[NL-Ui](https://github.com/notlimey/nl-ui)**
 - 🌱 I’m currently learning: **More deep understanding of Asp.Net Core API, Electron**
 - 💬 Ask me about: **C#, Html, Css / Scss, React, Javascript, Typescript, Blazor, Asp.Net Core**
 - ⚡ Fun fact: **I'm a programmer who has a girlfriend**
