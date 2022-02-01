@@ -82,6 +82,6 @@ I'm really passionate about coding and programming. I love working with react an
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notlimey&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</div>  
 
 <br/>  
