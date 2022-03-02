@@ -6,7 +6,7 @@ I'm really passionate about coding and programming. I love working with react an
 
 - 🔭 I’m currently working on: **[Limeyfy](https://limeyfy.no)**
 - 🌱 I’m currently learning: **Data structure and algorithms**
-- 💬 Ask me about: **C#, Html, Css / Scss, React, Javascript, Typescript, Asp.Net Core**
+- 💬 Ask me about: **C#, Html, Css / Scss, React, Javascript, Typescript, Asp.Net Core, Next.js**
 - ⚡ Fun fact: **I'm a programmer who has a girlfriend**
 
 ## My Skill Set  
