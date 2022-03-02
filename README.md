@@ -82,6 +82,4 @@ I'm really passionate about coding and programming. I love working with react an
 
 
 ## Github Stats  
-<div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notlimey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notlimey&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
