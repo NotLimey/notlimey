@@ -1,6 +1,6 @@
 # Hi, I'm Martin 👋🏼👨🏻‍💻
 
-I'm a 17 year old software engineer from Norway. Currently im going to Hamar Cathedralschool, in Informationtechnology second year. In my spare time i am running my own company [Limeyfy](https://limeyfy.com), where i design, code and host websites for small to medium size businesses. 
+I'm a 17 year old programmer from Norway. Currently im going to Hamar Cathedralschool, in Informationtechnology second year. In my spare time i am running my own company [Limeyfy](https://limeyfy.com), where i design, code and host websites for small to medium size businesses. 
 
 I'm really passionate about coding and programming. I love working with react and typescript in front-end. And when it comes to back-end i love using .Net core.
 
