@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Martin Kulvedrøsten Myhe</h1>
 <h3>Fullstacker and entrepreneur from norway</h3>
 
-- 🔭 I’m currently working on revolutionizing sports analytics and data management in (3Steps AS)[https://github.com/3Steps-AS]
+- 🔭 I’m currently working on revolutionizing sports analytics and data management in [3Steps AS](https://github.com/3Steps-AS)
 
 - 🌱 I’m currently learning advanced data algorithms
 
