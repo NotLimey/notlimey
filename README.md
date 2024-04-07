@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Martin Kulvedrøsten Myhe</h1>
-<h3 align="center">A fullstack developer from norway</h3>
+<h1>Hi 👋, I'm Martin Kulvedrøsten Myhe</h1>
+<h3>Fullstacker and entrepreneur from norway</h3>
 
-- 🔭 I’m currently working on **3Steps AS**
+- 🔭 I’m currently working on revolutionizing sports analytics and data management in (3Steps AS)[https://github.com/3Steps-AS]
 
-- 🌱 I’m currently learning **Rust, Advanced math and Neural networks**
+- 🌱 I’m currently learning advanced data algorithms
 
-- 💬 Ask me about **React, Next.js, Typescript, C#, Dotnet**
+- 💬 Ask me about **Rust, React, Next.js, Typescript, C#, Dotnet**
 
-- 📫 How to reach me **mkm@limeyfy.no**
+- 📫 How to reach me **mkm@limeyfy.no** or **mkm@3steps.no**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
