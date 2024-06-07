@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on revolutionizing sports analytics and data management in [3Steps AS](https://github.com/3Steps-AS)
 
-- 🌱 I’m currently learning advanced data algorithms
+- 🌱 I’m currently learning advanced data algorithms and Optimizley
 
-- 💬 Ask me about **Rust, React, Next.js, Typescript, C#, Dotnet**
+- 💬 Ask me about **Rust, React, Next.js, Typescript, C#, .NET**
 
 - 📫 How to reach me **mkm@limeyfy.no** or **mkm@3steps.no**
 
